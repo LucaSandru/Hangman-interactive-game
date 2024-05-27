@@ -10,8 +10,7 @@
 ## How to install and Run the project
   1. Open the terminal and write **install python 3.11**.If you have this already installed, go to step 2
   2. In the same terminal, use command **pip install** and *a pip extension* will be created. If you have installed already, is better to command it to verify
-  3. Now, Python is installed successfully on your PC
-  Observation: If the steps are not clear, visit this link: [https://www.python.org/download/releases/2.5/msi/](https://www.python.org/download/releases/2.5/msi/)
+  3. Now, Python is installed successfully on your PC. If the steps are not clear, visit this link: [https://www.python.org/download/releases/2.5/msi/](https://www.python.org/download/releases/2.5/msi/)
   5. You have to install **Pycharm**, a Python application ([Click here to install](https://www.jetbrains.com/pycharm/)). You can install your preffered Pycharm Edition
   6. Download the file [hangman.py](https://github.com/LucaSandru/Hangman-interactive-game/blob/main/hangman.py)
   7. Open this .py file with Pycharm
